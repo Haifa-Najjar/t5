@@ -1,0 +1,22 @@
+.title{
+    text-align: center;
+}
+.products{
+background-color: white;
+
+}
+.product{
+    float: right;
+    text-align: center;
+   width: 300px;
+   
+
+}
+.clearfix{
+    clear: both;
+}
+i{color: white;
+    background-color: yellow;
+    width: 150px;
+
+}
